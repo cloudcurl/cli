@@ -1,8 +1,8 @@
 # cloudcurl/cli
 
-# Installation
+## Installation
 
-## MacOS
+### MacOS
 
 Using Brew
 
