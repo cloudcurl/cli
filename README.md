@@ -4,7 +4,7 @@
 
 ### MacOS
 
-Using Brew
+Using Homebrew
 
 ```
 brew tap cloudcurl/tap
